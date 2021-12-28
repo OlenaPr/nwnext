@@ -1,0 +1,7 @@
+[ERROR] 2021-12-15 16:37:39.867 [main] ActionsRunner - Something is wrong with the file
+[INFO ] 2021-12-15 16:40:40.990 [main] TestPresent - Test problem
+[FATAL] 2021-12-15 19:04:01.543 [main] ActionsRunner - Something is wrong with the file
+[INFO ] 2021-12-15 19:30:22.144 [main] TestPresent - Test is doing great
+[FATAL] 2021-12-15 20:25:59.478 [main] ActionsRunner - Something is wrong with the file
+[FATAL] 2021-12-15 20:35:32.161 [main] ActionsRunner - Something is wrong with the file
+[FATAL] 2021-12-15 22:31:41.119 [main] ActionsRunner - Something is wrong with the file

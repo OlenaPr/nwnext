@@ -1,0 +1,20 @@
+PresentItem{presentName='Big', presentWeight=1478.0, presentSugar=1014.0, sweetsList=
+[Chocolate-  weightSweets=100, sugarSweets=5
+, Chocolate-  weightSweets=100, sugarSweets=5
+, Waffles-  weightSweets=12, sugarSweets=15
+, Caramel-  weightSweets=23, sugarSweets=45
+, Waffles-  weightSweets=34, sugarSweets=56
+, Chocolate-  weightSweets=10, sugarSweets=5
+, Chocolate-  weightSweets=10, sugarSweets=5
+, Chocolate-  weightSweets=10, sugarSweets=5
+, Chocolate-  weightSweets=10, sugarSweets=5
+, Waffles-  weightSweets=12, sugarSweets=15
+, Waffles-  weightSweets=12, sugarSweets=15
+, Waffles-  weightSweets=12, sugarSweets=15
+, Waffles-  weightSweets=12, sugarSweets=15
+, Caramel-  weightSweets=23, sugarSweets=45
+, Caramel-  weightSweets=23, sugarSweets=45
+, Caramel-  weightSweets=23, sugarSweets=45
+, Caramel-  weightSweets=33, sugarSweets=65
+, Caramel-  weightSweets=56, sugarSweets=6
+]
